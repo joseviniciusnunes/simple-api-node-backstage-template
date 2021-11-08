@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ${{ values.component_id }}
+  annotations:
+    github.com/project-slug: joseviniciusnunes/${{ values.component_id }}
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-d
