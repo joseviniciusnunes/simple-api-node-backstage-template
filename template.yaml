@@ -8,6 +8,7 @@ metadata:
     - node
     - api
     - express
+    - javascript
 spec:
   owner: joseviniciuus@outlook.com
   type: service
